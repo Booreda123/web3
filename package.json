@@ -1,5 +1,4 @@
 {
-  "homepage": "http://Booreda123.github.io/web3/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -17,12 +16,12 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "http://Booreda123.github.io/web3",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
     "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
